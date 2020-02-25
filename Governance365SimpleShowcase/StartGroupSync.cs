@@ -12,7 +12,7 @@ using Newtonsoft.Json.Linq;
 
 // Governance365SimpleShowcase
 // Demo solution for working with Azure Functions and Microsoft 365
-// Feb. 2020, atwork.at, Jörg Schoba, Toni Pohl
+// Feb. 2020, atwork.at, Joerg Schoba, Toni Pohl
 // Repository https://github.com/tonipohl
 
 namespace Governance365SimpleShowcase
